@@ -14,5 +14,6 @@ $ brew install openjdk
 $ brew install kotlin
 ```
 
-## [Studied](https://parkhyunsang.com/TIL/docs/lecture/dimo/)
-- [X] 변수와 자료형 / 2022.01.22 
+## [ToDos:](https://parkhyunsang.com/TIL/docs/lecture/dimo/)
+- [X] 변수와 자료형 / 2022.01.22 완료
+- [X] 형변환과 배열 / 2022.01.22 완료
