@@ -17,3 +17,4 @@ $ brew install kotlin
 ## [ToDos:](https://parkhyunsang.com/TIL/docs/lecture/dimo/)
 - [X] 변수와 자료형 / 2022.01.22 완료
 - [X] 형변환과 배열 / 2022.01.22 완료
+- [X] 타입추론과 함수 / 2022.01.23 완료
